@@ -82,15 +82,15 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| setting up components | H | 3hr|  |
-| Working with API | H | 3hrs|  |
-| getting map to work | H | 6hrs| |
-| creating Schema| H | 3hrs|  |
-| creating controllers | H | 6hrs| |
-| testing CRUD functions | H | 3hrs| |
-| connecting back end to front| H |3hrs| |
-| hosting back end | H | 6hrs| |
-| putting app on netlify| H |3hrs| |
+| setting up components | H | 3hr|  ||
+| Working with API | H | 3hrs|  ||
+| getting map to work | H | 6hrs| ||
+| creating Schema| H | 3hrs|  ||
+| creating controllers | H | 6hrs| ||
+| testing CRUD functions | H | 3hrs| ||
+| connecting back end to front| H |3hrs| ||
+| hosting back end | H | 6hrs| ||
+| putting app on netlify| H |3hrs| ||
 | styling| H | 6hrs| |
 | routing nav | L | 3hrs| |
 | post mvp styling| L | 3hrs| | 
@@ -114,7 +114,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
-
+Expo
 ## Code Snippet
 
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description.  Code snippet should not be greater than 10 lines of code. 
